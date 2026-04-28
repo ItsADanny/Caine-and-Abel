@@ -1,2 +1,2 @@
-# Caine &amp; Able - Process-Machine-manager
+# Caine &amp; Abel - Process-Machine-manager
 A simple process &amp; machine management tool, that can display multiple machines and what the running process are
